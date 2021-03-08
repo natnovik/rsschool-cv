@@ -2,9 +2,9 @@
 DÉVELOPPEUSE WEB · DATA ANALYSTE
 
  **[Email](natallia.a.novik@gmail.com)** &nbsp;&nbsp;&nbsp;&nbsp; **[LinkedIn]( https://www.linkedin.com/in/natallianovik/)** &nbsp;&nbsp;&nbsp;&nbsp;
- [Signal](+33(0)652457965)
+ Signal: +33(0)652457965
  
- #### ❝Rigoureuse, réactive et passionnée par les technologies informatiques, je voudrais mettre à profit mes compétences dans votre entreprise en tant que développeuse web. En reconversion professionnelle, je suis à la recherche d’un contrat de professionnalisation de 12 à 18 mois.❞
+ ### ❝ Rigoureuse, réactive et passionnée par les technologies informatiques, je voudrais mettre à profit mes compétences dans votre entreprise en tant que développeuse web. En reconversion professionnelle, je suis à la recherche d’un contrat de professionnalisation de 12 à 18 mois.❞
 
 ## FORMATION
 
@@ -20,7 +20,7 @@ _Université de Strasbourg / septembre 2012 - septembre 2014_
 * #### FORMATION BASIC SKILLS OF BUSINESS ANALYSIS
 _Education Centre of HI-TECH PARK Minsk, Biélorussie / mai - juin 2012_
 
-### TECHNOLOGIES
+## TECHNOLOGIES
 #HTML #CSS #JAVASCRIPT #FIGMA #JAVA #MYSQL #UML<br>
 _AGILE TOOLS_<br>
 #JIRA #TRELLO<br>
