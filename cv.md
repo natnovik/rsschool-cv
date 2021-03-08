@@ -1,6 +1,6 @@
 # NATALLIA NOVIK
 
- **mail: natallia.a.novik@gmail.com** <br>
+ **natallia.a.novik@gmail.com** <br>
  **[LinkedIn]( https://www.linkedin.com/in/natallianovik/)**
 
 ### FORMATION
