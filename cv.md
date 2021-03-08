@@ -4,7 +4,7 @@
  **[LinkedIn]( https://www.linkedin.com/in/natallianovik/)** <br>
  +33(0)652457965
 
-### Objectif
+### OBJECTIF
 DÉVELOPPEUSE WEB · DATA ANALYSTE
 
  
