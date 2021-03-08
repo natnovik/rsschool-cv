@@ -1,8 +1,14 @@
 # NATALLIA NOVIK
 
  **natallia.a.novik@gmail.com** <br>
- **[LinkedIn]( https://www.linkedin.com/in/natallianovik/)**
+ **[LinkedIn]( https://www.linkedin.com/in/natallianovik/)** <br>
+ +33(0)652457965
 
+### Objectif
+DÉVELOPPEUSE WEB · DATA ANALYSTE
+
+### ❞ 
+> Rigoureuse, réactive et passionnée par les technologies informatiques, je voudrais mettre à profit mes compétences dans votre entreprise en tant que développeuse web. En reconversion professionnelle, je suis à la recherche d’un contrat de professionnalisation de 12 à 18 mois.
 ### FORMATION
 
 * #### TITRE RNCP NIVEAU 5 DÉVELOPPEUSE WEB & MOBILE
@@ -26,4 +32,42 @@ _ADOBE_<br>
 ### 4 Langues
 Français - C1 <br> Anglais - C2 <br> Russe - native <br> Biélorusse - native
 ### CODE EXEMPLES  
-##### _in the process_
+#### JAVA
+```
+package co.simplon.exo2;
+
+public class Auteur {
+	 private int id_auteur;
+	 private String nom;
+	 private String prenom;
+  
+	 public Auteur (int id_auteur, String nom, String prenom) {
+		 super();
+		 this.id_auteur=id_auteur;
+		 this.nom = nom;
+		 this.prenom = prenom;
+	 } 
+	public int getId_auteur() {
+		return id_auteur;
+	}
+	public void setId_auteur(int id_auteur) {
+		this.id_auteur = id_auteur;
+	}
+	public String getNom() {
+		return nom;
+	}
+	public void setNom(String nom) {
+		this.nom = nom;
+	}
+	public String getPrenom() {
+		return prenom;
+	}
+	public void setPrenom(String prenom) {
+		this.prenom = prenom;
+	}
+	@Override
+	public String toString() {
+		return "Auteur [id_auteur=" + id_auteur + ", nom=" + nom + ", prenom=" + prenom + "]";
+	}	 	
+}
+```
