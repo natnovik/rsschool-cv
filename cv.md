@@ -7,8 +7,9 @@
 ### Objectif
 DÉVELOPPEUSE WEB · DATA ANALYSTE
 
-### ❞ 
+ 
 > Rigoureuse, réactive et passionnée par les technologies informatiques, je voudrais mettre à profit mes compétences dans votre entreprise en tant que développeuse web. En reconversion professionnelle, je suis à la recherche d’un contrat de professionnalisation de 12 à 18 mois.
+
 ### FORMATION
 
 * #### TITRE RNCP NIVEAU 5 DÉVELOPPEUSE WEB & MOBILE
