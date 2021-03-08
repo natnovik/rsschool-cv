@@ -1,19 +1,15 @@
 # NATALLIA NOVIK
-
- **natallia.a.novik@gmail.com** <br>
- **[LinkedIn]( https://www.linkedin.com/in/natallianovik/)** <br>
- +33(0)652457965
-
-### OBJECTIF
 DÉVELOPPEUSE WEB · DATA ANALYSTE
 
+ **[Email](natallia.a.novik@gmail.com)** &nbsp;&nbsp;&nbsp;&nbsp; **[LinkedIn]( https://www.linkedin.com/in/natallianovik/)** &nbsp;&nbsp;&nbsp;&nbsp;
+ [Signal](+33(0)652457965)
  
-> Rigoureuse, réactive et passionnée par les technologies informatiques, je voudrais mettre à profit mes compétences dans votre entreprise en tant que développeuse web. En reconversion professionnelle, je suis à la recherche d’un contrat de professionnalisation de 12 à 18 mois.
+ #### ❝Rigoureuse, réactive et passionnée par les technologies informatiques, je voudrais mettre à profit mes compétences dans votre entreprise en tant que développeuse web. En reconversion professionnelle, je suis à la recherche d’un contrat de professionnalisation de 12 à 18 mois.❞
 
-### FORMATION
+## FORMATION
 
 * #### TITRE RNCP NIVEAU 5 DÉVELOPPEUSE WEB & MOBILE
-_Simplon.co, Montreuil / septembre 2020 - juin 2022_ <br>
+_[Simplon.co](https://simplon.co/session/developpeur-web-et-web-mobile-30/414), Montreuil / septembre 2020 - juin 2022_ <br>
  • Frontend : HTML, CSS, JavaScript <br>
  • Backend : Java, J2EE, MySQL et NoSQL (MongoDB), MVC <br>
  • Modélisation de données - UML, maquettage web <br>
@@ -30,9 +26,10 @@ _AGILE TOOLS_<br>
 #JIRA #TRELLO<br>
 _ADOBE_<br>
 #ADOBEANALYTICS #PHOTOSHOP #INDESIGN<br>
-### 4 Langues
+## 4 Langues
 Français - C1 <br> Anglais - C2 <br> Russe - native <br> Biélorusse - native
-### CODE EXEMPLES  
+
+## CODE EXEMPLES  
 #### JAVA
 ```
 package co.simplon.exo2;
