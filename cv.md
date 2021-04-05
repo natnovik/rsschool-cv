@@ -30,3 +30,13 @@ _ADOBE_<br>
 Français - C1 <br> Anglais - C2 <br> Russe - native <br> Biélorusse - native
 
 ## CODE EXEMPLES  
+#### JavaScript
+```
+/*StringAnagramDetection*/
+String.prototype.sortLetters = function() {
+    return this.toLowerCase().split('').sort().join('');
+  }  
+  var isAnagram = function(test, original) {
+    
+    return test.sortLetters() == original.sortLetters();
+```
